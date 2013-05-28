@@ -1,1 +1,17 @@
-body {background-color: green};
+.clicked {
+  background-color: black !important;
+}
+
+.left {
+  float: left;
+  background-color: red;
+  height: 300px;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  background-color: blue;
+  height: 300px;
+  width: 50%;
+};
